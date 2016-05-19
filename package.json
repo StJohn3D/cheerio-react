@@ -1,0 +1,36 @@
+{
+  "name": "cheerio-react",
+  "version": "1.0.2",
+  "description": "Convert react components to jquery like cheerio objects for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StJohn3D/cheerio-react.git"
+  },
+  "keywords": [
+    "cheerio",
+    "react",
+    "mocha",
+    "test",
+    "testing",
+    "bdd",
+    "tdd"
+  ],
+  "author": "StJohn3D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StJohn3D/cheerio-react/issues"
+  },
+  "homepage": "https://github.com/StJohn3D/cheerio-react#readme",
+  "peerDependencies": {
+    "react-dom": "^15.0.2",
+    "react": "^15.0.2"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "tonicExampleFilename": "tonicExample.js"
+}
